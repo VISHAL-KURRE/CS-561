@@ -1,0 +1,16 @@
+ 1002  git commit -m "commit 4"
+ 1003  git status
+ 1004  git branch
+ 1005  git push
+ 1006      git push --set-upstream origin kurrev/hw1\n
+ 1007  git checkout main
+ 1008  git branch
+ 1009  touch file_5.txt
+ 1010  git add .
+ 1011  git commit -m "commit 5"
+ 1012  touch file_6.txt
+ 1013  git add .
+ 1014  git commit -m "commit 6"
+ 1015  git status
+ 1016  git push
+ 1017  history
